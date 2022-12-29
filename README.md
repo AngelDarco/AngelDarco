@@ -1,12 +1,17 @@
 ## Hey 👋, I'm Angel !  
   
 #
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Front-End+Developer+)](https://git.io/typing-svg)
-#
-![bJk](https://user-images.githubusercontent.com/29819444/209914376-99a4e9f0-3642-457d-bfd9-4144f2b1e08a.gif)
-
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=And+I'm+a+Front-End+Developer+)](https://git.io/typing-svg)
 
 <div align="center">
+
+![bJk](https://user-images.githubusercontent.com/29819444/209914376-99a4e9f0-3642-457d-bfd9-4144f2b1e08a.gif)
+
+</div>
+
+#
+
+<div align="center" width="30%">
 <a href="https://github.com/AngelDarco" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -43,14 +48,6 @@ I specialize in building robust solve problems that do all the heavy lifting for
 
 
 </td><td valign="top" width="50%">
-
-<div align="center">
-
-![81O8](https://user-images.githubusercontent.com/29819444/209914386-8a6d3fa1-5d3c-4829-bb11-b55cc927be0c.gif)
-
-
-</div>
-
 </td></tr></table>  
 
 <br/>  
