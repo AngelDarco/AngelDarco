@@ -47,7 +47,11 @@ I specialize in building robust solve problems that do all the heavy lifting for
 - ⚡ Fun fact: I keep night shift swithed on at all times
 
 
-</td><td valign="top" width="50%">
+</td><td align="center" valign="top" width="50%">
+
+![5TMy](https://user-images.githubusercontent.com/29819444/209915690-455937b0-3c40-42cf-83a8-15e9e483f308.gif)
+
+
 </td></tr></table>  
 
 <br/>  
@@ -107,7 +111,7 @@ I specialize in building robust solve problems that do all the heavy lifting for
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=JenniferWjertzoch&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=AngelDarco&&style=flat-square)  
   
 
 <br/>  
