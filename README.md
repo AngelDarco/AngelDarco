@@ -116,6 +116,7 @@ I specialize in building robust solve problems that do all the heavy lifting for
 
 <br/>  
 
+[![wakatime](https://wakatime.com/badge/user/018ddc1f-6346-4bf4-b046-bed2f88c7007.svg)](https://wakatime.com/@018ddc1f-6346-4bf4-b046-bed2f88c7007)
 
 <br />
 
